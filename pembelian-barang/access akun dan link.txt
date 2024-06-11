@@ -6,6 +6,3 @@ password: officer1
 
 username: finance1
 password: finance1
-
-Link Aplikasi Hosting : https://barangbeli.000webhostapp.com/
-Link Github : 
